@@ -1,4 +1,8 @@
 ### Hi there 👋
+Hola bienvenidos a mi repositorio, soy Eleazar ramos y podéis contactar conmigo 📫 sixen25@gmail.com.
+Actualmente soy Junior 🌱 y me gustaría colaborar en algún proyecto ⚡ para seguir aprendiendo ya que la programación me encanta :heart: 
+
+Estoy acabando el último año en el grado superior de *Desarrollo De Aplicaciones Web* además por mi cuenta estoy en :high_brightness: Platzi y  Udemy :high_brightness:.
 
 <!--
 **EleazarRC/EleazarRc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
